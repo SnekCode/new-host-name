@@ -1,0 +1,5 @@
+some garbage text
+to see if the = sed / regex functions
+new_host_name="test-1"
+work
+properly=or not
